@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: slateblue;
+}
+
+.container{
+    background-color: white;
+    margin: 0px;
+    padding: 30px;
+   
+    
+    
+}
+
+h1{
+   
+    background-color: salmon;
+}
